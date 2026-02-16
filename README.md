@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**Rleathers1218/rleathers1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Hi there 👋<!--
 - 🔭 I’m currently working on customizing my LoupeDeck which landed me looking through GitHub for solutions. 
 - 🌱 I’m currently learning the basics of GitHub. I learned how to create this readme file through the introductory course. 
 - 👯 I’m looking to collaborate on anything I can't mess up because I have no idea what I'm doing yet but I'm very excited to learn!
