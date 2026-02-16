@@ -1,4 +1,4 @@
-## Hi there 👋<!--
+## Hi there 👋
 - 🔭 I’m currently working on customizing my LoupeDeck which landed me looking through GitHub for solutions. 
 - 🌱 I’m currently learning the basics of GitHub. I learned how to create this readme file through the introductory course. 
 - 👯 I’m looking to collaborate on anything I can't mess up because I have no idea what I'm doing yet but I'm very excited to learn!
@@ -6,4 +6,4 @@
 - 💬 Ask me about anything but I'd only consider myself a SME in Naval Aviation
 - 📫 How to reach me: I'm not sure if I should put an email or a messaging app here. I'll browse others and see what's most popular. 
 - ⚡ Fun fact: I once took First Place at the IBJJF Pan-American Jiu Jitsu Championship. 
--->
+
